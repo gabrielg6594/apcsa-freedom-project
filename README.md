@@ -2,7 +2,7 @@
 by Gabriel G
 
 ## Context
-The “Freedom Project” for APCSA is all about X. The purpose of this blog is to X.
+The “Freedom Project” for APCSA is all about SwingGUI and makeing a time management website. The purpose of this blog is to go through the steps of choosing the tool to use then getting an idea of what to make and going through to make the project.
 
 ## Content
 For my project, I am making X. This blog will walk through my process of independently studying X in order to make X.
